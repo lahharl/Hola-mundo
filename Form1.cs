@@ -13,6 +13,7 @@ namespace Git_Ex1
     {
         public Form1()
         {
+			// Modificación desde otro repositorio
             InitializeComponent();
         }
 
